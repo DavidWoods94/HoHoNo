@@ -1,0 +1,15 @@
+
+
+
+
+1) Create new class in file "Nit.cs""
+
+2) Pick the closest existing object and copy it into Nit.cs (Bullet.cs)
+
+3) Rename all Bullet to Nit.
+
+4) Go to G.cs and add the objects in the setupGameObjects function  
+
+At this point the new objects shold behave like the one they were copied from.
+
+5) Change the .png file, the constructor and update functions to match new object. (Also the launch function if there is one.)

@@ -1,0 +1,13 @@
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\bin\x64\Debug\WPFStartupDemo.exe.config
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\bin\x64\Debug\WPFStartupDemo.exe
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\bin\x64\Debug\WPFStartupDemo.pdb
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\obj\x64\Debug\WPF_Game01.csprojResolveAssemblyReference.cache
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\obj\x64\Debug\MainWindow.baml
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\obj\x64\Debug\MainWindow.g.cs
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\obj\x64\Debug\App.g.cs
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\obj\x64\Debug\WPFStartupDemo_MarkupCompile.cache
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\obj\x64\Debug\WPFStartupDemo.g.resources
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\obj\x64\Debug\WPFStartupDemo.Properties.Resources.resources
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\obj\x64\Debug\WPF_Game01.csproj.GenerateResource.Cache
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\obj\x64\Debug\WPFStartupDemo.exe
+C:\Users\andrea valentina\Desktop\HoHoNo\WPF_Game01\obj\x64\Debug\WPFStartupDemo.pdb

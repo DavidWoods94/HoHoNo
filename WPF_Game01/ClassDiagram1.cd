@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WPFStartupDemo.ActiveNitCounterText" Collapsed="true">
+    <Position X="23" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ActiveNitCounterText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.App" Collapsed="true">
+    <Position X="34.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.Background1" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Background1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.Bubble" Collapsed="true">
+    <Position X="14" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAAAAAAQCQAAEAAAAEQQAAAAAAAAQAAAAEAAA=</HashCode>
+      <FileName>Bubble.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.DateTimeText" Collapsed="true">
+    <Position X="25.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAA=</HashCode>
+      <FileName>DateTimeText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.Diver" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAAAAQCAAAEAAAAEAAAAAAAAAEQAAAAEAAA=</HashCode>
+      <FileName>Diver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.ExtinctionCounterText" Collapsed="true">
+    <Position X="27.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>ExtinctionCounterText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.FloatingText" Collapsed="true">
+    <Position X="26.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEABAAAAAAAAQAAAAFAAA=</HashCode>
+      <FileName>FloatingText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.FrameRateText" Collapsed="true">
+    <Position X="29.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAAAAgAIAAAAAAAAEAAAAAAEAAA=</HashCode>
+      <FileName>FrameRateText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.G" Collapsed="true">
+    <Position X="38" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAgAAIAACIgggAAAAACRIACIAACQAQAAtABkAA=</HashCode>
+      <FileName>G.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.CompositionTargetEx" Collapsed="true">
+    <Position X="36.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAABAAAAAAAABAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>GameEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.GameEngine" Collapsed="true">
+    <Position X="34.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARIAAAEgAIAIAAAAAAKAAgAAAAAAAACAEIQAAEABQA=</HashCode>
+      <FileName>GameEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.GameObject" Collapsed="true">
+    <Position X="16.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cAAAiAEAFAAAAIAgAEIAAFAKACBAAAAAAkBIAAAEYAA=</HashCode>
+      <FileName>GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.GameText" Collapsed="true">
+    <Position X="24" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAJAAAAAAAAAAEAAAAgAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>GameText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.MainWindow" Collapsed="true">
+    <Position X="36.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAAAACAAACAAAAAABAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.Nit" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAkAUAAIAgQaQAAECIAEAAEAIAQQCQAAAQAQEAUE=</HashCode>
+      <FileName>Nit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.Plant" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgIAAQACAQSAAAEAAAAEAAAAAAAAAAQAAAAEAAg=</HashCode>
+      <FileName>Plant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.Sub" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgBAAAAAAQCAAAEAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Sub.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.Tail" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAQAQAAEAAAAAAAAAAAAAIEAAAAAEAAA=</HashCode>
+      <FileName>Tail.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.Properties.Resources" Collapsed="true">
+    <Position X="38" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WPFStartupDemo.Properties.Settings" Collapsed="true">
+    <Position X="34.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

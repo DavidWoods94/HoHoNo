@@ -1,0 +1,10 @@
+string hexString( unsigned char byte )
+{
+        char lookup[] = "0123456789abcdef";
+        string s = "";
+         s += lookup[ byte >> 4 ];
+         s += lookup[ byte & 0x0f ];
+        }
+
+        return s;
+}
